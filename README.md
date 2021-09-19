@@ -1,6 +1,12 @@
-# cupp099
+# cupp0001
 
-git clone https://github.com/prabin4456/cupp999.git
+pass(4)digit
+pass0001
+to
+password0099
+only
+
+git clone https://github.com/prabin4456/cupp099.git
 
 ls
 
@@ -17,3 +23,15 @@ python cupp.py -i
 termux-setup-storage
 
 mv name.txt /sdcard
+
+note- ( pass create time name password00 )
+
+pass list
+
+password0001
+password0002
+password0003
+to
+password0098
+password0099
+only
