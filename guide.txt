@@ -1,3 +1,6 @@
+note- ( pass create time name password00 )
+
+
 pass(4)digit
 
 pass0001
