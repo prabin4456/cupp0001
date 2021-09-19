@@ -10,13 +10,13 @@ password0099
 
 only
 
-git clone https://github.com/prabin4456/cupp099.git
+git clone https://github.com/prabin4456/cupp0099.git
 
 ls
 
-cupp999
+cupp0099
 
-cd cupp999
+cd cupp0099
 
 ls
 
